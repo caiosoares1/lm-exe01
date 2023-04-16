@@ -1,0 +1,70 @@
+html {
+    color: darkslategrey;
+    font-family: arial, sans-serif;
+    font-size: 17px;
+}
+
+h1 {
+    font-size: 30px;
+    color: darkblue;
+}
+
+h1:visited {
+    color: darkblue;
+}
+
+.text-center {
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    background-color: lightskyblue;
+    color: darkblue;
+}
+
+h2:visited {
+    color: darkblue;
+}
+
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: darkblue;
+}
+
+h1 a {
+    color: white;
+}
+
+h1 a:visited {
+    color: white
+}
+
+h1 a:hover {
+    color: darkblue;
+}
+
+h2 a {
+    color: lightskyblue;
+}
+
+h2 a:visited {
+    color: lightskyblue;
+}
+
+h2 a:hover {
+    color: darkblue;
+}
+
+#copyright {
+    font-weight: bold;
+    font-style: italic;
+}
